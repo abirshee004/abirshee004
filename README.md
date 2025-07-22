@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abir</h1>
 <h3 align="center">
-  📊 I’m a **Data Analytics enthusiast** exploring Power BI, SQL, Excel, and visualization tools  
-  🎨 Skilled in **UI/UX Design** using Figma – I love designing intuitive user interfaces  
-  📱 Previously built Android apps using Kotlin, Jetpack Compose & Material Design  
-  📚 Lifelong learner – currently diving deeper into data modeling, DAX, and business dashboards  
-  💡 I enjoy making sense of messy data and crafting clean, interactive user experiences </h3>
+- 📊 I’m a **Data Analytics enthusiast** exploring Power BI, SQL, Excel, and visualization tools  
+- 🎨 Skilled in **UI/UX Design** using Figma – I love designing intuitive user interfaces  
+- 📱 Previously built Android apps using Kotlin, Jetpack Compose & Material Design  
+- 📚 Lifelong learner – currently diving deeper into data modeling, DAX, and business dashboards  
+- 💡 I enjoy making sense of messy data and crafting clean, interactive user experiences </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abirshee004&label=Profile%20views&color=0e75b6&style=flat" alt="abirshee004" /> </p>
 

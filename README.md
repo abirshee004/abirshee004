@@ -1,12 +1,34 @@
-<h1 align="center">Hi 👋, I'm Abir</h1>
-<h3 align="center">
+<h1 align="center">Hi, I'm Abir 👋</h1>
+
+<p align="center">
+  🔍 <b>Data Analyst</b> • 🎨 <b>UI Developer</b> • 🤖 <b>Ex-Android Dev</b><br>
+  Passionate about solving real-world problems using data & design.
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abirshee004&label=Profile%20views&color=0e75b6&style=flat" alt="abirshee004" /> </p>
+
+---
+
+## 💼 About Me
+
 - 📊 I’m a **Data Analytics enthusiast** exploring Power BI, SQL, Excel, and visualization tools  
 - 🎨 Skilled in **UI/UX Design** using Figma – I love designing intuitive user interfaces  
 - 📱 Previously built Android apps using Kotlin, Jetpack Compose & Material Design  
 - 📚 Lifelong learner – currently diving deeper into data modeling, DAX, and business dashboards  
-- 💡 I enjoy making sense of messy data and crafting clean, interactive user experiences </h3>
+- 💡 I enjoy making sense of messy data and crafting clean, interactive user experiences  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abirshee004&label=Profile%20views&color=0e75b6&style=flat" alt="abirshee004" /> </p>
+---
+
+## 🛠️ Tools & Technologies
+
+### 🔹 Data Analytics  
+- **Power BI**, **Microsoft Excel**, **DAX**, **SQL**, **Data Cleaning**
+
+### 🎨 UI Design  
+- **Figma**, **Auto Layout**, **Typography**, **Design Systems**
+
+### 📱 Android Development  
+- **Kotlin**, **Jetpack Compose**, **Firebase**, **Glide**, **Material Components**
+  
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -24,6 +46,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abir-shee-7bb4bb255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abir-shee-7bb4bb255" height="30" width="40" /></a>
 <a href="https://youtube.com/@bachelorsbanquet?si=Ux6oITPuBVyI4AzD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bachelorsbanquet" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abirshee2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abirshee2004" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abir.shee.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abir.shee.54" height="30" width="40" /></a>
 </p>
 
 

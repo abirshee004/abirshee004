@@ -118,9 +118,13 @@ Excel • Pivot Tables • MIS Reporting
 
 ## 🤝 Connect With Me
 
-📧 abircsekolkata004@gmail.com  
-🔗 linkedin.com/in/abirshee  
-💻 github.com/abirshee004  
+<p align="left">
+<a href="https://www.linkedin.com/in/abir-shee-7bb4bb255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abir-shee-7bb4bb255" height="30" width="40" /></a>
+<a href="https://youtube.com/@bachelorsbanquet?si=Ux6oITPuBVyI4AzD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bachelorsbanquet" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abirshee2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abirshee2004" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abir.shee.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abir.shee.54" height="30" width="40" /></a>
+</p>
+ 
 
 ---
 

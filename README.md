@@ -1,7 +1,17 @@
 <h1 align="center">Hey 👋 I'm Abir Shee</h1>
 
 <p align="center">
-  🎨 UI Designer • 📊 Data Analyst • 📱 Ex-Android Developer
+  <img src="https://img.icons8.com/color/48/combo-chart--v1.png" height="22"/> 
+  <b>Data Analyst</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" height="22"/> 
+  <b>Data Scientist</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/48/design.png" height="22"/> 
+  <b>UI Designer</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="22"/> 
+  <b>Ex-Android Developer</b>
 </p>
 
 <p align="center">
